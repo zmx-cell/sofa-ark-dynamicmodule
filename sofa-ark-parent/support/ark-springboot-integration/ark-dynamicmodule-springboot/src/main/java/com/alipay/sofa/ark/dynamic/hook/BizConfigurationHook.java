@@ -19,6 +19,7 @@ package com.alipay.sofa.ark.dynamic.hook;
 /**
  * After start, Extension module bean inject
  * Note: Bean can`t Repeated registry
+ *
  * @author hanyue
  * @version : TestConfigurationHook.java, v 0.1 2022年05月26日 下午6:54 hanyue Exp $
  */
